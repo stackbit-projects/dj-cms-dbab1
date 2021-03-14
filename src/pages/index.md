@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Veterinary Support Service
 hide_title: true
 sections:
   - section_id: hero
