@@ -7,7 +7,7 @@ excerpt: >-
 date: '2021-03-01'
 thumb_img_path: images/IMG-20210312-WA0002.jpg
 thumb_img_alt: A motorcycle in a forest
-content_img_path: images/3.jpg
+content_img_path: images/IMG_20210224_102958.jpg
 content_img_alt: A motorcycle in a forest
 seo:
   title: The Ride In The Woods
