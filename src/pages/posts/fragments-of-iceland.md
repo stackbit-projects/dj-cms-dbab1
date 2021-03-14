@@ -39,7 +39,7 @@ seo:
       value: images/7.jpg
       relativeUrl: true
 template: post
-title: 'High Density '
+title: High Density Scheduling
 subtitle: Is your team ready?
 ---
 
