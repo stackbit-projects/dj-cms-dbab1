@@ -39,7 +39,7 @@ seo:
       value: images/7.jpg
       relativeUrl: true
 template: post
-title: High DenWith Schedules
+title: High DenWith Schedule
 subtitle: Is your team ready?
 ---
 
