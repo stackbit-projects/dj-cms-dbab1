@@ -40,7 +40,7 @@ seo:
       relativeUrl: true
 template: post
 title: High DenWith Schedules
-subtitle: Is your team ready
+subtitle: Is your team ready?
 ---
 
 Photo by [Anders Jildén](https://unsplash.com/photos/uO4Au3LrCtk)
